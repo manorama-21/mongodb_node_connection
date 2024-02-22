@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  },
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "my first connection with mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "node",
+    "dev"
+  ],
+  "author": "manu",
+  "license": "ISC"
+}
